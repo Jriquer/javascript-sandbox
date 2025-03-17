@@ -26,3 +26,7 @@ x = 5 + false;
 x = 5 + undefined;
 
 console.log(x, typeof x);
+
+
+
+

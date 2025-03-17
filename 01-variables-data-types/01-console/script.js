@@ -1,3 +1,5 @@
+
+
 // Log number
 console.log(100);
 

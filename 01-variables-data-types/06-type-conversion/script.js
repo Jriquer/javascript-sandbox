@@ -1,4 +1,4 @@
-let amount = 100;
+let amount = 'buenastardes';
 
 // Convert string to number
 amount = parseInt(amount);

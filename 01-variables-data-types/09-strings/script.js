@@ -1,3 +1,6 @@
+
+/*
+
 let x;
 
 const name = 'John';
@@ -58,3 +61,37 @@ x = s.valueOf();
 x = s.split('');
 
 console.log(x);
+*/
+
+let x;
+
+const name = 'John';
+const age = 30;
+
+x = 'Hello, my name is ' + name + ' and I am ' + age + ' years old'; 
+
+//Template literals wayyyy better version of writing 
+
+x = `Hello, my name is ${name} and I am  ${age} years old`;
+
+// String Properties and Methods
+
+const s = 'Hello World'
+
+x = s.length;
+
+//Access value by key
+
+x = s[1];
+
+x = s.__proto__;
+
+
+console.log(x);
+
+
+
+
+
+
+
